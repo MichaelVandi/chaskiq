@@ -17,7 +17,7 @@
 
 <br/>
 
-<a href="https://heroku.com/deploy?template=https://github.com/chaskiq/chaskiq/tree/main" alt="Deploy to Heroku">
+<a href="https://heroku.com/deploy?template=https://github.com/MichaelVandi/chaskiq/tree/main" alt="Deploy to Heroku">
     <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
 </a>
 
