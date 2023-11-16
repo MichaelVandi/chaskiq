@@ -80,7 +80,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "ECO"
+      "size": "Standard-1X"
     }
   },
   "image": "heroku/ruby",
